@@ -1,0 +1,9 @@
+C:\Users\Hossam\source\repos\projectOSConsole\projectOSConsole\bin\Debug\projectOSConsole.exe.config
+C:\Users\Hossam\source\repos\projectOSConsole\projectOSConsole\bin\Debug\projectOSConsole.exe
+C:\Users\Hossam\source\repos\projectOSConsole\projectOSConsole\bin\Debug\projectOSConsole.pdb
+C:\Users\Hossam\source\repos\projectOSConsole\projectOSConsole\obj\Debug\projectOSConsole.csproj.CoreCompileInputs.cache
+C:\Users\Hossam\source\repos\projectOSConsole\projectOSConsole\obj\Debug\projectOSConsole.exe
+C:\Users\Hossam\source\repos\projectOSConsole\projectOSConsole\obj\Debug\projectOSConsole.pdb
+C:\Users\Hossam\source\repos\projectOSConsole\projectOSConsole\obj\Debug\projectOSConsole.csprojAssemblyReference.cache
+C:\Users\Hossam\source\repos\projectOSConsole\projectOSConsole\obj\Debug\projectOSConsole.TaskManger.resources
+C:\Users\Hossam\source\repos\projectOSConsole\projectOSConsole\obj\Debug\projectOSConsole.csproj.GenerateResource.cache
